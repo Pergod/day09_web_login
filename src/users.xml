@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+    <user id="3953" username="jack" password="123" email="jack@163.com" neckname="cry" birthday="1990-04-21" />
+    <user id="2435" username="mike" password="456" email="mike@163.com" neckname="devil" birthday="1992-01-08" />
+    <user id="5464" username="leo" password="789" email="leo@163.com" neckname="shout" birthday="1994-09-16" />
+    <user id="8654" username="rion" password="abc" email="rion@163.com" neckname="yell" birthday="1993-07-21" />
+</users>
